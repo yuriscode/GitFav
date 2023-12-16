@@ -25,3 +25,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## 💻 Projeto
+
+* O GitFav é uma favoritador de usuários do Github, podendo ver o nome de usuário, total de seguidores e total de repositórios públicos. Essa aplicação utiliza da API do próprio Github.
+
+* Com o desenvolvimento dessa aplicação eu aprendi: 
+    * Conceitos de Orientação a Objetos no Javascript;
+    * Como criar elementos HTML com a DOM;
+    * Utilização do localStorage;
+    * Conceitos de funções assíncronas, como o <strong>async</strong>, <strong>await</strong>, <strong>fetch</strong> e <strong>then</strong>;
+    
