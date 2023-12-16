@@ -5,7 +5,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -34,4 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     * Como criar elementos HTML com a DOM;
     * Utilização do localStorage;
     * Conceitos de funções assíncronas, como o <strong>async</strong>, <strong>await</strong>, <strong>fetch</strong> e <strong>then</strong>;
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/JXQwoDz7sFnC4xw445Ssja/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=301%3A324&mode=design&t=8OTNlpgMA0tiYqmP-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
     
